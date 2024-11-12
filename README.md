@@ -31,7 +31,6 @@ Our analysis revealed several crucial factors that contribute to article success
 - Content structure (length, links, multimedia)
 - Sentiment analysis
 - Writing complexity
-- Publication timing
 
 ## 📊 Data Analysis
 
@@ -41,7 +40,7 @@ The project includes:
 - Content quality scoring
 - Visualization of key metrics
 
-## 🚀 Getting Started
+## 🚀 Getting Started 
 
 1. Clone the repository
 git clone https://github.com/yourusername/webdata.git
@@ -66,8 +65,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 - The dataset contains 39,797 news articles published by Mashable between January 2013 and December 2016.
 
-More information about the dataset can be found here: https://archive.ics.uci.edu/dataset/332/online+news+popularity
+- More information about the dataset can be found here: https://archive.ics.uci.edu/dataset/332/online+news+popularity
 
-For details on the features, see the dataset description here: https://archive.ics.uci.edu/dataset/332/online+news+popularity/view
+- For details on the features, see the dataset description here: https://archive.ics.uci.edu/dataset/332/online+news+popularity/view
 
 - Inspired by research in digital content optimization
