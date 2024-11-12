@@ -57,10 +57,6 @@ pip install -r requirements.txt
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](link-to-your-issues-page).
-
 ## ✨ Acknowledgments
 
 - The dataset contains 39,797 news articles published by Mashable between January 2013 and December 2016.
