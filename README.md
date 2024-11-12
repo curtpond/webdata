@@ -1,6 +1,6 @@
 # 📊 Web Traffic Data Analysis
 
-An experimental project to define a scoring system for analyzing web article performance using statistical methods. - This project is inspired by research in digital content optimization. Specifically, what insights can we find in analyzing content that could then be used to maximize the value of future content relative to the effort of creating it?
+An experimental project to define a scoring system for analyzing web article performance using statistical methods. This project is inspired by research in digital content optimization. Specifically, what insights can we find in analyzing content that could then be used to maximize the value of future content relative to the effort of creating it?
 
 ## 🎯 Project Overview
 
