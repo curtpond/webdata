@@ -1,14 +1,14 @@
 # 📊 Web Traffic Data Analysis
 
-An experimental project analyzing web article performance using machine learning techniques.
+An experimental project to define a scoring system for analyzing web article performance using statistical methods.
 
 ## 🎯 Project Overview
 
-This repository contains analysis of web traffic data to understand what makes articles successful. Using various metrics and machine learning approaches, we identify key features that contribute to article performance and engagement.
+This repository contains analysis of web traffic data to understand what makes articles successful. Using various metrics and machine learning approaches, I identify key features that contribute to article performance and engagement.
 
 ## 🔑 Key Findings
 
-Our analysis revealed several crucial factors that contribute to article success:
+My analysis revealed several crucial factors that contribute to article success:
 
 ### Top Performance Indicators
 - 📈 Social shares are the strongest predictor of article success
