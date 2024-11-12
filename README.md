@@ -1,6 +1,6 @@
 # 📊 Web Traffic Data Analysis
 
-An experimental project to define a scoring system for analyzing web article performance using statistical methods.
+An experimental project to define a scoring system for analyzing web article performance using statistical methods. - This project is inspired by research in digital content optimization. Specifically, what insights can we find in analyzing content that could then be used to maximize the value of future content relative to the effort of creating it?
 
 ## 🎯 Project Overview
 
@@ -64,5 +64,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - More information about the dataset can be found here: https://archive.ics.uci.edu/dataset/332/online+news+popularity
 
 - For details on the features, see the dataset description here: https://archive.ics.uci.edu/dataset/332/online+news+popularity/view
-
-- Inspired by research in digital content optimization
