@@ -43,7 +43,9 @@ The project includes:
 ## 🚀 Getting Started 
 
 1. Clone the repository
+2. ```
 git clone https://github.com/curtpond/webdata.git
+```
 
 
 2. Install required packages
