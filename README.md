@@ -53,7 +53,7 @@ git clone https://github.com/curtpond/webdata.git
 pip install -r requirements.txt
 ```
 
-3. Open the Jupyter notebooks to explore the analysis
+3. Open articles.ipynb to explore the analysis
 
 ## 📝 License
 
